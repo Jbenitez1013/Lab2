@@ -32,7 +32,7 @@ namespace Lab2Class
         public static double Min(double number1, double number2, double number3)
         {
             double min, min2;
-
+            
             if (number1 > number2)
             {
 
